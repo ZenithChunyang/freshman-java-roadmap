@@ -29,7 +29,7 @@
 | 17 | 面向对象综合练习（下）- 拼图游戏 GUI | ⏸️ | 跳过 GUI，见 Day-16 备注 |
 | 18 | API（常见 API + 对象克隆） | ✅ | Objects、Math、System |
 | 19 | API（正则表达式） | ✅ | 记住 `\d \w ? * +` |
-| 20 | API（时间 + 包装类） | 🔁 | LocalDateTime、Integer 缓存 |
+| 20 | API（时间 + 包装类） | ✅ | LocalDateTime、Integer 缓存 |
 | 21 | API（算法 + Lambda） | 🔁 | Stream 预热 |
 | 22 | List 集合 | 🔁 | ArrayList 源码 |
 | 23 | 泛型 & Set & 数据结构 | 🔁 | HashSet 去重原理 |
