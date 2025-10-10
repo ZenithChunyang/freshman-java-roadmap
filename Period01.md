@@ -33,7 +33,7 @@
 | 21 | API（算法 + Lambda） | ✅ | Stream 预热 |
 | 22 | List 集合 | ✅ | ArrayList 源码 |
 | 23 | 泛型 & Set & 数据结构 | ✅ | HashSet 树 去重原理 |
-| 24 | Map & 可变参数 & 工具类 | 🔁 | HashMap 链表→红黑树 |
+| 24 | Map & 可变参数 & 工具类 | ✅ | HashMap 链表→红黑树 |
 | 25 | 阶段项目 - 斗地主游戏（GUI） | ⏸️ | 仅保留洗牌算法 |
 | 26 | Stream 流 + 方法引用 | 🔁 | 链式练习 10 题 |
 | 27 | IO（异常 + File） | 🔁 | Files.walk、递归删除 |
