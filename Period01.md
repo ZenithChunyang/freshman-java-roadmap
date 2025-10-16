@@ -37,7 +37,7 @@
 | 25 | 阶段项目 - 斗地主游戏（GUI） | ⏸️ | 仅保留洗牌算法 |
 | 26 | Stream 流 + 方法引用 | ✅ | 链式练习 10 题 |
 | 27 | 异常 + File | ✅ | RuntimeException 递归删除 |
-| 28 | IO（字节流 + 字符流） | 🔁 | try-with-resources |
+| 28 | IO（字节流 + 字符流） | ✅ | try-with-resources |
 | 29 | IO（其他流） | 🔁 | 缓冲流、对象流 |
 | 30 | 阶段综合 - 带权重随机 & 日记本（GUI） | ⏸️ | 权重算法已提取，[笔记📎](docs/weight_random.md) |
 | 31 | 多线程基础 | 🔁 | Thread、Runnable、synchronized |
