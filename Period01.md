@@ -40,7 +40,7 @@
 | 29 | IO（其他流） | ✅ | 缓冲流、转换流、序列化、Commons IO |
 | 30 | 阶段综合 - 带权重随机 + Properties + 日记本（GUI） | ⏸️✅ | 除GUI部分完成 |
 | 31 | 多线程基础 | ✅ | Thread、Runnable、synchronized |
-| 32 | JUC 高级并发 | 🔁 | 线程池、CAS、ConcurrentHashMap |
+| 32 | JUC 高级并发 | ✅ | 线程池 |
 | 33 | 网络编程 | 🔁 | TCP 三次握手代码验证 |
 | 34 | 阶段项目 - 聊天室（GUI+Socket） | ⏸️ | 只保留多线程收发逻辑 |
 | 35 | 反射 + 动态代理 | 🔁 | 手写 JDK 动态代理 |
