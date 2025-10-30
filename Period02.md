@@ -6,7 +6,7 @@
 | 01 | 前端Web基础(HTML+CSS) | ✅ | [代码](https://github.com/YOU/repo/tree/day01) |
 | 02 | 前端Web基础(JS+Vue+Ajax) | ⏸️ | Vue 入门笔记 |
 | 03 | 后端Web基础(Maven基础) | ✅ | Maven 安装与配置 |
-| 04 | 后端Web基础(基础知识) | 🔁 | Servlet/JSP 快速复习 |
+| 04 | 后端Web基础(基础知识) | ✅ | SpringBoot 分层解耦 |
 | 05 | 后端Web基础(数据库) | 🔁 | MySQL 基础命令 |
 | 06 | 后端Web基础(Java操作数据库) | 🔁 | JDBC 封装工具类 |
 | 07 | 后端Web实战(部门管理) | 🔁 | 部门增删改查完整代码 |
